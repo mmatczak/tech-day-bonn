@@ -1,5 +1,1 @@
-node_modules
-app/bower_components
-.tmp
-.idea/
 *.iml
